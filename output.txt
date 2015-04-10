@@ -1,0 +1,30 @@
+Frequent Itemsets of size 1
+baby-powder
+beer
+bread
+detergent
+diaper
+milk
+umbrella
+
+Frequent Itemsets of size 2
+baby-powder,bread
+baby-powder,diaper
+baby-powder,milk
+baby-powder,umbrella
+beer,diaper
+bread,detergent
+bread,diaper
+bread,milk
+bread,umbrella
+detergent,diaper
+diaper,milk
+diaper,umbrella
+milk,umbrella
+
+Frequent Itemsets of size 3
+baby-powder,bread,diaper
+baby-powder,diaper,umbrella
+bread,detergent,diaper
+bread,diaper,umbrella
+diaper,milk,umbrella
